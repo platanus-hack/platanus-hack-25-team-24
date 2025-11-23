@@ -1,0 +1,15 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic
+pydantic-settings
+ruff==0.1.6
+pytest==7.4.3
+elevenlabs==2.24.0
+python-multipart
+mutagen>=1.47.0
+# Database dependencies
+sqlalchemy==2.0.23
+psycopg2-binary==2.9.9
+# Metrics module dependencies
+spacy==3.8.11
+openai==1.65.1

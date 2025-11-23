@@ -1,4 +1,4 @@
 {
-  "project-name": "<FILL THIS>",
-  "project-description-spanish": "<FILL THIS>"
+  "project-name": "0ratorIA",
+  "project-description-spanish": "0ratorIA is a full-stack application that analyzes speech patterns and provides detailed metrics to help users enhance their public speaking abilities. Users complete three types of exercises (reading, description, and Q&A) and receive comprehensive feedback on their performance. It also provides a speech-to-text-to-speech feature for clean-up and enhancement of recorded speeches, bridging the gap in communication for individuals with speech impairments."
 }
