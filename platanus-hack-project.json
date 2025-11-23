@@ -1,4 +1,5 @@
 {
   "project-name": "0ratorIA",
-  "project-description-spanish": "0ratorIA is a full-stack application that analyzes speech patterns and provides detailed metrics to help users enhance their public speaking abilities. Users complete three types of exercises (reading, description, and Q&A) and receive comprehensive feedback on their performance. It also provides a speech-to-text-to-speech feature for clean-up and enhancement of recorded speeches, bridging the gap in communication for individuals with speech impairments."
+  "project-description-spanish": "0ratorIA es una aplicación full-stack que analiza patrones del habla y ofrece métricas detalladas para ayudar a los usuarios a mejorar sus habilidades de oratoria. Los usuarios completan tres tipos de ejercicios (lectura, descripción y preguntas y respuestas) y reciben retroalimentación integral sobre su desempeño. También proporciona una función de conversión de voz-a-texto-a-voz para la limpieza y mejora de discursos grabados, reduciendo barreras de comunicación para personas con dificultades del habla.",
+  "deploy-url": "https://0ratoria.vercel.app/"
 }
