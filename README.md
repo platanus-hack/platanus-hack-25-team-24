@@ -1,10 +1,6 @@
 # team-24 Platanus Hack Project
 
-**Current project logo:** project-logo.png
-
-<img src="./project-logo.png" alt="Project Logo" width="200" />
-
-Submission Deadline: 23rd Nov, 9:00 AM, Chile time.
+<img width="500" height="500" alt="oratoria_bg-white_v4" src="https://github.com/user-attachments/assets/cd8a3eed-61ec-48a5-9ade-c33bb1dcf19a" />
 
 Track: 🦾 human enhancement
 
